@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Thelman
 #### Desarrollo de software y ciberseguridad
-![Desarrollo de software y ciberseguridad](https://artfiles.alphacoders.com/890/89081.jpg)
+![Desarrollo de software y ciberseguridad](https://github.com/Alcatraz2033/Alcatraz2033/blob/main/qwqw.jpg)
 
 Hola a todos soy Thelman de Ecuador, la mayor parte de mi contenido son script y programas muy útiles para la comunidad. Me especialo mayormente en bash scripting y python. Me gusta desarrollar los lenguajes que ya conozco y aprender otro nuevos. Mis intereses son el desarrollo de software y ciberseguridad.
 Pueden encontrarme en Udemy como [Thelman Pabón](https://www.udemy.com/user/thelman/) y en Hack the box como [z3r02033](https://app.hackthebox.com/profile/580522) 
