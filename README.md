@@ -14,4 +14,4 @@ Habilidades: PYTHON / BASH / SOFTWARE / CIBERSEGURIDAD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz2033&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz2033&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz2033&show_icons=true&theme=merko)
