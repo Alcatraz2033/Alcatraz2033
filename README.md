@@ -11,6 +11,9 @@ Habilidades: PYTHON / BASH / SOFTWARE / CIBERSEGURIDAD
 - 🌱 Estoy aprendiendo Python / Bash 
 - 😄 Pronombres: Alcatraz 
 - ⚡ Dato curioso: Me gusta el anime 
+- 👽 Hack The Box: [z3r02033](https://app.hackthebox.com/profile/580522)
+- 👊 Udemy: [Thelman Pabón](https://www.udemy.com/user/thelman/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz2033&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
