@@ -1,4 +1,4 @@
-### Hola 👋, mi nombre es Thelman
+### Hola <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, mi nombre es Thelman
 #### Desarrollo de software y ciberseguridad
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
