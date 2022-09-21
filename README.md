@@ -17,7 +17,9 @@ Habilidades: PYTHON / BASH / SOFTWARE / CIBERSEGURIDAD
 - 👽 Hack The Box: [z3r02033](https://app.hackthebox.com/profile/580522)
 - 👊 Udemy: [Thelman Pabón](https://www.udemy.com/user/thelman/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alcatraz2033&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcatraz2033&show_icons=true&theme=dark)
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alcatraz2033&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alcatraz2033&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
