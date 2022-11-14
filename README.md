@@ -16,7 +16,6 @@ Habilidades: PYTHON / BASH / SOFTWARE / CIBERSEGURIDAD
 - ⚡ Dato curioso: Me gusta el anime 
 - 👽 Hack The Box: [z3r02033](https://app.hackthebox.com/profile/580522)
 - 💻 Linkedin: [Thelman Pabón](https://www.linkedin.com/in/thelman-pab%C3%B3n-56a5a8251/)
-- 👊 Udemy: [Thelman Pabón](https://www.udemy.com/user/thelman/)
 - 🛍️ Mi Tienda Online: [Academia Alcatraz](https://alcatrazth.com/)
 
 <p align="center">
