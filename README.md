@@ -11,12 +11,13 @@ Hola a todos soy Thelman de Ecuador, la mayor parte de mi contenido son scripts 
 
 Habilidades: PYTHON / BASH / SOFTWARE / CIBERSEGURIDAD
 
-- 🌱 Estoy aprendiendo Python / Bash 
+- 🌱 Estoy aprendiendo Python / Bash / Hacking
+- 🗽 Trabajo en una Empresa de Ciber Seguridad
 - 😄 Pronombres: Alcatraz 
 - ⚡ Dato curioso: Me gusta el anime 
 - 👽 Hack The Box: [z3r02033](https://app.hackthebox.com/profile/580522)
 - 💻 Linkedin: [Thelman Pabón](https://www.linkedin.com/in/thelman-pab%C3%B3n-56a5a8251/)
-- 🛍️ Mi Tienda Online: [Academia Alcatraz](https://alcatrazth.com/)
+<!-- - 🛍️ Mi Tienda Online: [Academia Alcatraz](https://alcatrazth.com/) -->
 
 <p align="center">
 <a href="https://github.com/AVS1508">
