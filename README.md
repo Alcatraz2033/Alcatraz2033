@@ -1,11 +1,20 @@
 ### Aloja 👋, mi nombre es Thelman
 #### Desarrollo de software y ciberseguridad
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 Hola a todos soy Thelman de Ecuador, la mayor parte de mi contenido son scripts y programas muy útiles para la comunidad. Me especializo mayormente en bash scripting y python. Me gusta desarrollar los lenguajes que ya conozco y aprender otro nuevos. Mis intereses son el desarrollo de software y ciberseguridad.
 
