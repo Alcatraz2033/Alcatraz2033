@@ -1,5 +1,5 @@
 ### Aloja 👋, mi nombre es Thelman
-#### Desarrollo de software, ciberseguridad y hacking ético
+#### Desarrollo de software, ciberseguridad y hacking ético.
 
 <picture>
   <source
